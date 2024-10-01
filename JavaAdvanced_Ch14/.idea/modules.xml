@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CopyAllLines/CopyAllLines.iml" filepath="$PROJECT_DIR$/CopyAllLines/CopyAllLines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopyStream/CopyStream.iml" filepath="$PROJECT_DIR$/CopyStream/CopyStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiskUsage/DiskUsage.iml" filepath="$PROJECT_DIR$/DiskUsage/DiskUsage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeSearchExample/EmployeeSearchExample.iml" filepath="$PROJECT_DIR$/EmployeeSearchExample/EmployeeSearchExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindFile/FindFile.iml" filepath="$PROJECT_DIR$/FindFile/FindFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvanced_Ch14.iml" filepath="$PROJECT_DIR$/JavaAdvanced_Ch14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListDir/ListDir.iml" filepath="$PROJECT_DIR$/ListDir/ListDir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathExample/PathExample.iml" filepath="$PROJECT_DIR$/PathExample/PathExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathOperations/PathOperations.iml" filepath="$PROJECT_DIR$/PathOperations/PathOperations.iml" />
+    </modules>
+  </component>
+</project>
