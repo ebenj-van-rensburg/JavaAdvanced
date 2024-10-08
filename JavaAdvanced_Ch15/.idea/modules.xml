@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atomic/Atomic.iml" filepath="$PROJECT_DIR$/Atomic/Atomic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicBarrier/CyclicBarrier.iml" filepath="$PROJECT_DIR$/CyclicBarrier/CyclicBarrier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Executor/Executor.iml" filepath="$PROJECT_DIR$/Executor/Executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvanced_Ch15.iml" filepath="$PROJECT_DIR$/JavaAdvanced_Ch15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lock/Lock.iml" filepath="$PROJECT_DIR$/Lock/Lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizedExamples/SynchronizedExamples.iml" filepath="$PROJECT_DIR$/SynchronizedExamples/SynchronizedExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+    </modules>
+  </component>
+</project>
