@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvanced_Ch18.iml" filepath="$PROJECT_DIR$/JavaAdvanced_Ch18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreparedStatement/PreparedStatement.iml" filepath="$PROJECT_DIR$/PreparedStatement/PreparedStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleJDBC/SimpleJDBC.iml" filepath="$PROJECT_DIR$/SimpleJDBC/SimpleJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice1/practice1.iml" filepath="$PROJECT_DIR$/practice1/practice1.iml" />
+    </modules>
+  </component>
+</project>
