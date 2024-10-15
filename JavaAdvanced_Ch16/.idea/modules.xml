@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaAdvanced_Ch16.iml" filepath="$PROJECT_DIR$/JavaAdvanced_Ch16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice1ForkJoinFindMax/practice1ForkJoinFindMax.iml" filepath="$PROJECT_DIR$/practice1ForkJoinFindMax/practice1ForkJoinFindMax.iml" />
     </modules>
   </component>
 </project>
