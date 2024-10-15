@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lock/Lock.iml" filepath="$PROJECT_DIR$/Lock/Lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/SynchronizedExamples/SynchronizedExamples.iml" filepath="$PROJECT_DIR$/SynchronizedExamples/SynchronizedExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice1ConCount/practice1ConCount.iml" filepath="$PROJECT_DIR$/practice1ConCount/practice1ConCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice2ExecutorService/practice2ExecutorService.iml" filepath="$PROJECT_DIR$/practice2ExecutorService/practice2ExecutorService.iml" />
     </modules>
   </component>
 </project>
