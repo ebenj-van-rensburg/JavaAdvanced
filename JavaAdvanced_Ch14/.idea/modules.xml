@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/ListDir/ListDir.iml" filepath="$PROJECT_DIR$/ListDir/ListDir.iml" />
       <module fileurl="file://$PROJECT_DIR$/PathExample/PathExample.iml" filepath="$PROJECT_DIR$/PathExample/PathExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/PathOperations/PathOperations.iml" filepath="$PROJECT_DIR$/PathOperations/PathOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice1LambdaFiles/practice1LambdaFiles.iml" filepath="$PROJECT_DIR$/practice1LambdaFiles/practice1LambdaFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice2LambdaDir/practice2LambdaDir.iml" filepath="$PROJECT_DIR$/practice2LambdaDir/practice2LambdaDir.iml" />
     </modules>
   </component>
 </project>
